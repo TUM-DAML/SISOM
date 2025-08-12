@@ -1,3 +1,10 @@
+# A Unified Approach Towards Active Learning and Out-of-Distribution Detection
+
+This is the repository to the paper "A Unified Approach Towards Active Learning and Out-of-Distribution Detection",
+by Sebastian Schmidt, Leonard Schenk, Leo Schwinn, Stephan Günnemann.  
+
+We are currently migrating the Code to the latest OpenOOD version and releasing the Code on the new Codebase.
+
 # OpenOOD: Benchmarking Generalized OOD Detection
 
 <!--
